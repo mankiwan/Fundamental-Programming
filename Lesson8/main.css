@@ -1,3 +1,8 @@
+body {
+  background-color: antiquewhite;
+  padding: 5px;
+}
+
 table,
 tr,
 td {
@@ -6,10 +11,16 @@ td {
 }
 
 table {
+  background-color: white;
   margin: 0;
   width: 100%;
 }
 
 h1 {
   text-align: center;
+}
+
+button {
+  background: aquamarine;
+  border-radius: 4px;
 }
